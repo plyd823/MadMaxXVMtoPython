@@ -1,0 +1,8 @@
+global\global\scripts\animationstatetasks\input_locomotion_and_bb.py
+global\global\scripts\gameobjects\character\mmax_shirt_router.py
+global\global\scripts\gameobjects\debug_spawn_item.py
+global\global\scripts\gameobjects\gameplay_mode.py
+global\global\scripts\lib\lib_animation.py
+global\global\scripts\lib\lib_gameplay.py
+global\global\scripts\lib\lib_hoodornament.py
+global\global\scripts\lib\lib_player_input.py
